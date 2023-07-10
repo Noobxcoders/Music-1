@@ -208,7 +208,7 @@ class MakeButtons:
                 self.ikb(text="Repo 📦", url="https://telegra.ph/file/b1f8ff56996c3d952fa48.mp4"),
             ],
             [
-                self.ikb(text="Under HellBot Network { 🇮🇳 }", url="https://t.me/Amazingdpzworld"),
+                self.ikb(text="IG Network { 🇮🇳 }", url="https://t.me/Amazingdpzworld"),
             ],
             [
                 self.ikb(text="Support 🎙️", url="https://t.me/Amazingdpzworld"),
